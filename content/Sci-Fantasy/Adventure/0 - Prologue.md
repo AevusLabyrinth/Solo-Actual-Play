@@ -11,7 +11,6 @@ until *I* consume *it* and take
 *Command FEAR,*
 *Command*
 *RISK.*
-<p style=""></p>
 - - -
 Enveloped in the broad vacuum of space, a cloaked shuttle makes its gradual descent toward Earth. Inside, crammed shoulder to shoulder, stand  dozens of government officials, shotgunning morning coffees and checking their itineraries for the day. A handful of armored soldiers position themselves at each corner.
 
