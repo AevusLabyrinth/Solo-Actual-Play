@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Aevus' Solo-RPGs
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -13,7 +13,7 @@ configuration:
     - templates
     - .obsidian
   theme:
-    fontOrigin: googleFonts
+    fontOrigin: local
     cdnCaching: true
     typography:
       header: Courier New
@@ -41,6 +41,10 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
+  - source: "@quartz-themes/core"
+    options:
+      theme: "redshift-oled-blue-light-filter"
+      mode: "dark"
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
@@ -277,12 +281,9 @@ plugins:
     enabled: true
     options:
       useThemeFonts: false
-      fontOrigin: googleFonts
+      fontOrigin: local
     order: 60
-  - source: "@quartz-themes/core"
-    options:
-      theme: "redshift-oled-blue-light-filter"
-      mode: "dark"
+    
 layout:
   groups:
     toolbar:
