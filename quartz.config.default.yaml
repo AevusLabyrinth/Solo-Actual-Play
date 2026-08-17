@@ -102,10 +102,10 @@ plugins:
     enabled: true
     options:
       useThemeFonts: false
-      fontOrigin: selfHosted
-      body: 'Courier New'
-      header: 'Courier New'
-      code: 'Courier New'
+      fontOrigin: googleFonts
+      body: '"JetBrains Mono", monospace'
+      header: '"JetBrains Mono", monospace'
+      code: '"JetBrains Mono", monospace'
   - source: "@quartz-themes/core"
     enabled: true
     options:
