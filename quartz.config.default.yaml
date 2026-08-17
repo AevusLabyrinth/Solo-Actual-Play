@@ -16,9 +16,9 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: VT323
-      body: VT323
-      code: VT323
+      header: Courier Prime
+      body: Courier Prime
+      code: Courier Prime
     colors:
       lightMode:
         light: "#faf8f8"
@@ -102,10 +102,10 @@ plugins:
     enabled: true
     options:
       useThemeFonts: false
-      fontOrigin: local
-      body: '"JetBrains Mono", monospace'
-      header: '"JetBrains Mono", monospace'
-      code: '"JetBrains Mono", monospace'
+      fontOrigin: selfHosted
+      body: 'Courier New'
+      header: 'Courier New'
+      code: 'Courier New'
   - source: "@quartz-themes/core"
     enabled: true
     options:

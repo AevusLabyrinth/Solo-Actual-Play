@@ -1,17 +1,8 @@
 
-- - -
-**Session Date:** 8/15/26
-- - -
-*Become* the catalyst.
-*Feel* the chaos consume *me*
-until *I* consume *it* and take
-*command.*
-*Command CHANCE,*
-*Command TRUTH,*
-*Command FEAR,*
-*Command*
-*RISK.*
-- - -
+<hr>
+<p><strong>Session Date:</strong> 8/15/26</p>
+<hr>
+<p></p>
 Enveloped in the broad vacuum of space, a cloaked shuttle makes its gradual descent toward Earth. Inside, crammed shoulder to shoulder, stand  dozens of government officials, shotgunning morning coffees and checking their itineraries for the day. A handful of armored soldiers position themselves at each corner.
 
 Two figures sit in plain sight, backs pressed against one wall. Those around them shift and turn, eyes glossing directly over the colorful pair, and yet they remain unseen. The space they occupy is unconsciously left open.
