@@ -3,5 +3,5 @@
 <br><br>
 HEADS UP: THIS SITE IS INCREDIBLY INCOMPLETE. SOME PAGES ARE GONNA BE EMPTY BECAUSE THEY'RE JUST PLACEHOLDERS UNTIL I BUILD MORE ON THEM LATER.
 </p>
-<h1>Guide</h1>
+<h1 style="text-align: center">Guide</h1>
 <p style="font-family: Courier New; text-align: center"><a href="https://aevuslabyrinth.github.io/Solo-Actual-Play/sci-fantasy/">Sci-Fantasy</a> | <a href="https://aevuslabyrinth.github.io/Solo-Actual-Play/sci-fantasy/adventure/0---prologue">Most Recent Session</a></p>
