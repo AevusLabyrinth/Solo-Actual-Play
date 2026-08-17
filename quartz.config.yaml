@@ -16,9 +16,9 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Courier New
+      body: Courier New
+      code: Courier New
     colors:
       lightMode:
         light: "#faf8f8"
@@ -273,6 +273,16 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source: github:quartz-community/fonts
+    enabled: true
+    options:
+      useThemeFonts: true
+      fontOrigin: googleFonts
+    order: 60
+  - source: "@quartz-themes/core"
+    options:
+      theme: "redshift-oled-blue-light-filter"
+      mode: "dark"
 layout:
   groups:
     toolbar:
