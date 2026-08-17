@@ -13,12 +13,12 @@ configuration:
     - templates
     - .obsidian
   theme:
-    fontOrigin: local
+    fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Courier New
-      body: Courier New
-      code: Courier New
+      header: Courier Prime
+      body: Courier Prime
+      code: Courier Prime
     colors:
       lightMode:
         light: "#faf8f8"
@@ -42,6 +42,7 @@ configuration:
         textHighlight: "#b3aa0288"
 plugins:
   - source: "@quartz-themes/core"
+    enabled: true
     options:
       theme: "redshift-oled-blue-light-filter"
       mode: "dark"
