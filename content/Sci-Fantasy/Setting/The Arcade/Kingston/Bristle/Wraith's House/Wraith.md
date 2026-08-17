@@ -1,7 +1,7 @@
 ---
 sticker: emoji//1f471
 ---
-![[Wraith.png]]
+
 - - -
 - **Dirt:** Zaria Kincade
 - **Role:** Cat-Can Market Guard
