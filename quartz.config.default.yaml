@@ -16,9 +16,9 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: VT323
+      body: VT323
+      code: VT323
     colors:
       lightMode:
         light: "#faf8f8"
@@ -100,11 +100,17 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
-  - source: "@quartz-themes/core"
-    enabled: false
     options:
-      theme: tokyo-night
-      mode: both
+      useThemeFonts: false
+      fontOrigin: local
+      body: '"JetBrains Mono", monospace'
+      header: '"JetBrains Mono", monospace'
+      code: '"JetBrains Mono", monospace'
+  - source: "@quartz-themes/core"
+    enabled: true
+    options:
+      theme: "redshift-oled-blue-light-filter"
+      mode: "dark"
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
