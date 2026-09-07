@@ -34,7 +34,7 @@ Glimmer floats in the middle-distance; a crystalline asteroid hollowed out and s
 <p style="font-family: Courier New">As the pair look at her confused, she turns her back and starts doing the dishes again. She absentmindedly blows away a blonde lock that falls into her face. Her faded blue robe haphazardly thrown on over her pajamas begins to slip off one shoulder.</p>
 <p style="color: green; font-family: Courier New"><i>"Soooo, besides MY generous hospitality," a clear thought cuts through the ambiance of Wraith's mind, "what do you think of the Arcade so far?" an air of sarcasm on her words.</i></p>
 <p style="font-family: Courier New"><i>"It looks even worse up close."</i></p>
-<p style="text-align: right; color: #1C6EA4font-family: Courier New; font-family: Courier New"><i>"It looks even worse up close."</i></p>
+<p style="text-align: right; color: #1C6EA4; font-family: Courier New; font-family: Courier New"><i>"It looks even worse up close."</i></p>
 <p style="color: green; font-family: Courier New"><i>"Wouldn't be your first day on dirt, if you didn't have some drunk guy in the shuttle try pissing on you. That's what happened to me, anyway," she glances over her shoulder, "Actually, though, did the ride here go okay?"</i></p>
 <p style="font-family: Courier New"><i>"The people were-"</i></p>
 <p style="text-align: right; color: #1C6EA4; font-family: Courier New"><i>"-fine."</i></p>

@@ -11,7 +11,7 @@
 <br><br>
 But, for now...
 </p>
-<h1 style="font-family">Content Warnings</h1>
+<h1 style="font-family: Courier New">Content Warnings</h1>
 <hr>
 <p style="font-family: Courier New">
 <strong>Right here, I'm giving a blanket content warning for adult themes, language, and heavy subject matter.</strong><br>
