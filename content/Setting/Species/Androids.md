@@ -1,6 +1,4 @@
 
-<img src="https://aevuslabyrinth.github.io/Solo-Actual-Play/media/androids.svg" width="95%">
-
 <hr>
 <p style="font-family: Courier New">
 <i>Androids, at this point, are largely indistinguishable from the species' they're modeled after, and often once were a member of that species who has transfered their conscious to an android body to extend their lifespan. Droids vary widely in appearance, from classic cyberware golds and chromes, to modern medical-grade biotech.</i>

@@ -2,7 +2,6 @@
 sticker: emoji//1f9d4
 ---
 
-<img scr="https://aevuslabyrinth.github.io/Solo-Actual-Play/media/humans.svg" width="95%">
 <hr>
 <p style="font-family: Courier New">
 <i>We know what we are, so this entry is only really here for posterity. I know, I know, how Human of me.</i>
