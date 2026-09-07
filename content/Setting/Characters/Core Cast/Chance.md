@@ -1,5 +1,5 @@
 
-<img src="https://aevuslabyrinth.github.io/Solo-Actual-Play/media/ChancePortrait.svg" width="95%">
+<img src="https://aevuslabyrinth.github.io/Solo-Actual-Play/media/chanceportrait.svg" width="95%">
 <hr>
 <p style="font-family: Courier New">
 <strong>Dirt Name:</strong> Sojourner Waescan<br>

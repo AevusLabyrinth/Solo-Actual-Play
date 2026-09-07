@@ -2,7 +2,7 @@
 sticker: emoji//1f3a3
 ---
 
-<img src="https://aevuslabyrinth.github.io/Solo-Actual-Play/media/Phem.svg" width="95%">
+<img src="https://aevuslabyrinth.github.io/Solo-Actual-Play/media/phem.svg" width="95%">
 <hr>
 <p style="font-family: Courier New">
 <i>A reclusive Voidborne species that makes their home in asteroid belts, moons, and low to zero-G planets. Known to have anti-memetic camouflage, empathic communication, and variable degrees of shape-changing capabilities. This collection of traits, combined with an isolationist culture, makes correspondence with Phem inconsistent, so our understanding of them is incredibly limited beyond individual accounts.
