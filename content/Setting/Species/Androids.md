@@ -1,5 +1,5 @@
 
-<img src="https://aevuslabyrinth.github.io/Solo-Actual-Play/media/androids.svg" style="width: 95%">
+<img src="https://aevuslabyrinth.github.io/Solo-Actual-Play/media/androids.svg" width="95%">
 
 <hr>
 <p style="font-family: Courier New">

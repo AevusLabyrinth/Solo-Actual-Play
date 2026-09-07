@@ -2,7 +2,7 @@
 sticker: emoji//1f471
 ---
 
-<img scr="https://aevuslabyrinth.github.io/Solo-Actual-Play/media/WraithPortrait.svg" style="width: 95%">
+<img scr="https://aevuslabyrinth.github.io/Solo-Actual-Play/media/WraithPortrait.svg" width="95%">
 <hr>
 <p style="font-family: Courier New">
 - <strong>Dirt Name:</strong> Zaria Kincade<br>

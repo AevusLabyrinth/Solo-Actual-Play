@@ -2,7 +2,7 @@
 sticker: emoji//1f3a3
 ---
 
-<img scr="https://aevuslabyrinth.github.io/Solo-Actual-Play/media/phem.svg" style="width: 95%">
+<img scr="https://aevuslabyrinth.github.io/Solo-Actual-Play/media/phem.svg" width="95%">
 
 <hr>
 <p style="font-family: Courier New">

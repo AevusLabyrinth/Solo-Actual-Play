@@ -1,5 +1,5 @@
 
-<img scr="https://aevuslabyrinth.github.io/Solo-Actual-Play/media/RiskPortrait.svg" style="width: 95%">
+<img scr="https://aevuslabyrinth.github.io/Solo-Actual-Play/media/RiskPortrait.svg" width="95%">
 <hr>
 <p style="font-family: Courier New">
 <strong>Dirt Name:</strong> Mariner Waescan<br>
