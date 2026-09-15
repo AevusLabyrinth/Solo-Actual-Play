@@ -235,6 +235,7 @@ He wishes he had vocal cords to scream with.
 
 <hr>
 <p style="font-family: Courier New; text-align: center">
+<a href="https://aevuslabyrinth.github.io/Solo-Actual-Play/adventure/2---glitter-in-my-irises">Next Session</a> | 
 <a href="https://aevuslabyrinth.github.io/Solo-Actual-Play/">Home</a> | <a href="https://aevuslabyrinth.github.io/Solo-Actual-Play/setting/">Setting</a> | <a href="https://aevuslabyrinth.neocities.org/goblin-city/homepage">Back to Goblin City</a>
 </p>
 <hr>

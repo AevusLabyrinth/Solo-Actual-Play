@@ -71,6 +71,7 @@ Brendan Brade<br>
 
 <hr>
 <p style="font-family: Courier New; text-align: center">
-<a href="https://aevuslabyrinth.github.io/Solo-Actual-Play/setting/">Setting</a> | <a href="https://aevuslabyrinth.neocities.org/goblin-city/homepage">Back to Goblin City</a>
+<a href="https://aevuslabyrinth.github.io/Solo-Actual-Play/adventure/1---unhappy-and-reckless">Next Session</a> | 
+<a href="https://aevuslabyrinth.github.io/Solo-Actual-Play/">Home</a> | <a href="https://aevuslabyrinth.github.io/Solo-Actual-Play/setting/">Setting</a> | <a href="https://aevuslabyrinth.neocities.org/goblin-city/homepage">Back to Goblin City</a>
 </p>
 <hr>

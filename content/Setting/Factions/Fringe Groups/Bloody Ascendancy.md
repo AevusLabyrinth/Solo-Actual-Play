@@ -9,3 +9,8 @@ sticker: emoji//1fa78
 - **Projects:** Incite conflict among other factions
 - **Quirks:** Operates under strict codes or laws; Resolves disputes through formal duels
 - **Rumors:** Pulling the strings of the [[Awakened Syndicate]]
+<hr>
+<p style="font-family: Courier New; text-align: center">
+<a href="https://aevuslabyrinth.github.io/Solo-Actual-Play/adventure/">Adventure</a> | <a href="https://aevuslabyrinth.neocities.org/goblin-city/homepage">Back to Goblin City</a>
+</p>
+<hr>
